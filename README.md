@@ -13,7 +13,7 @@
   - View detailed information about each device when tapped.
   - User-friendly interface with vibrant colors and gradients.
 
-## Screenshots
+## Screenshot
 
   ![Sample Output](https://github.com/Praveen5102/BeaconScanner/blob/main/lib/assets/android%20output.jpeg)
 
