@@ -15,7 +15,7 @@
 
 ## Screenshots
 
-  Android Output
+  ![Sample Output](https://github.com/Praveen5102/BeaconScanner/blob/main/lib/assets/android%20output.jpeg)
 
 
 ## Installation
@@ -84,10 +84,16 @@
   - [Flutter] - The framework used for building the app.
   - [flutter_blue_plus] - Package used for Bluetooth functionalities.
 
-## Author
+## Contact
 
-  [Praveen Kumar Gone] - Flutter Developer 
+  For any questions or feedback, feel free to reach out:
   
+  - **Email:**praveenkumargone229@gmail.com
+  - **GitHub:** https://github.com/praveen5102
+
+## 
+
+  Thank you for checking out the BeaconScanner Application! We hope you enjoy using it as much as we enjoyed building it. 😊
 
 
 
